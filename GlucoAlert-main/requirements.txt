@@ -1,0 +1,6 @@
+#installation requirements
+
+streamlit #to deploy the trained model as we app
+numpy #for array manipulation
+pandas #to hande the data set
+scikit-learn #for classification, regression, clustering etc...
